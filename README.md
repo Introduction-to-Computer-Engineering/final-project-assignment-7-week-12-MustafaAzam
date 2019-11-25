@@ -9,7 +9,7 @@ This program configures 3 LEDs to fade 1 by 1 and they cycle in a loop.
 
 File: [original-guide.js](original-guide.js)
 
-Demo: [link](https://imgur.com/)
+Demo: [https://imgur.com/a/u8FFlII](https://imgur.com/a/u8FFlII)
 
 
 
@@ -19,7 +19,7 @@ This program enables both the external LEDs and the microbit's LED matrix at the
 
 File: [enable-matrix.js](enable-matrix.js)
 
-Demo: 
+Demo: [https://imgur.com/a/BPRKcKl](https://imgur.com/a/BPRKcKl)
 
 
 
@@ -29,7 +29,7 @@ This program enables both the external LEDs and the microbit's LED matrix at the
 
 File: [twenty-eight.js](twenty-eight.js)
 
-Demo:
+Demo: [https://imgur.com/a/dpkA3Wh](https://imgur.com/a/dpkA3Wh)
 
 
 
@@ -39,26 +39,26 @@ This program turns on the connected LED when the TTL input is On.
 
 File: [digital-in.js](digital-in.js)
 
-Demo:
+Demo: [https://imgur.com/a/OUm4kEO](https://imgur.com/a/OUm4kEO)
 
 
 
 ### Task 5: manual-calibration.js
 
-description
+In this program, we manually calibrated the sensor. The sensor's data was mapped on a 5x5 graph on the microbit's LED matrix. The graph displayed rows of LEDs depending on how high the sensor's reading was.
 
 File: [manual-calibration.js](manual-calibration.js)
 
-Demo:
+Demo:[https://imgur.com/a/3m2cBjW](https://imgur.com/a/3m2cBjW)
 
 
 
 ### Task 6: auto-calibration.js
 
-description
+This program is basically the same as the one in Task 5 but with one added feature: the sensor was automatically calibrated.
 
 File: [auto-calibration.js](auto-calibration.js)
 
-Demo:
+Demo:[https://imgur.com/a/zNBpk5P](https://imgur.com/a/zNBpk5P)
 
 
